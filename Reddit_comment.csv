@@ -1,0 +1,390 @@
+Date;id;author;domain;url;title;score;selftext;num_comments;num_crossposts;full_link
+2021-09-09;pl7n8b;HODL_CRYPTO;i.redd.it;https://i.redd.it/uz02dh4xujm71.png;The choice is yours;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl7n8b/the_choice_is_yours/
+2021-09-09;pl7m6a;lalo_mondragon;i.redd.it;https://i.redd.it/l9gjledsujm71.jpg;I’m looking for opinions - not financial advice;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl7m6a/im_looking_for_opinions_not_financial_advice/
+2021-09-09;pl7isi;Lark_Davis;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl7isi/thanks_to_this_community/;Thanks to this Community;1; **I just want to say Thanks to the community. You have been helpful and gracious to someone who is just trying to get comfortable with crypto and has asked some very basic questions. You have all been selfless with your time and much appreciated**;4;0;https://www.reddit.com/r/Bitcoin/comments/pl7isi/thanks_to_this_community/
+2021-09-09;pl7fwa;thadiusb;bitcoinmagazine.com;https://bitcoinmagazine.com/culture/miami-mayor-suarez-calls-for-election-of-a-bitcoin-president-after-joe-biden;Miami Mayor Suarez Calls For Election Of A Bitcoin President After Joe Biden;1;;20;0;https://www.reddit.com/r/Bitcoin/comments/pl7fwa/miami_mayor_suarez_calls_for_election_of_a/
+2021-09-09;pl7fju;finc0n1;youtu.be;https://youtu.be/_BfdyUm4I_o;How The Everything Bubble Will Burst...And How To Profit From It;1;;3;0;https://www.reddit.com/r/Bitcoin/comments/pl7fju/how_the_everything_bubble_will_burstand_how_to/
+2021-09-09;pl78r3;sunsetreunion;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl78r3/a_report_on_the_topranked_qrcode_generators_for/;A report on the top-ranked QR-Code generators for Bitcoin (Beware SCAMS!);1;"I performed the google search ""bitcoin qr code generator"" which yielded me the following 10 results (9/9/22):
+
+\#1
+
+[https://www.qr-code-generator.com/solutions/bitcoin-qr-code/](https://www.qr-code-generator.com/solutions/bitcoin-qr-code/)
+
+**Review:** Newer site, but at the time of this writing, appears to generate a legitimate QR-code based on your address, but it won't let you download the qr-code without a user account.
+
+&amp;#x200B;
+
+\#2
+
+[www.bitcoinqrcodemaker.com/](https://www.bitcoinqrcodemaker.com/)
+
+**Review:** *THIS SITE IS A TOTAL SCAM!*  It's been identified as such by another reddit user 7 months ago: [https://www.reddit.com/r/CryptoCurrency/comments/li39mb/psa\_httpswwwbitcoinqrcodemakercom\_may\_be\_scamming/](https://www.reddit.com/r/CryptoCurrency/comments/li39mb/psa_httpswwwbitcoinqrcodemakercom_may_be_scamming/)
+
+It's also implemented advanced address mimicking software, designed to mimic the first several characters of the Bitcoin address you input.
+
+This same scam site appears as the #1 result of a Bing search, and the #2 result of a duckduckgo search.
+
+&amp;#x200B;
+
+\#3
+
+[https://gobitcoin.io/tools/qrcode/](https://gobitcoin.io/tools/qrcode/)
+
+This site is legitimate and has been around for a while, but does not correctly verify Bech-32 addresses and has ads cluttering the user experience.  It does however support some of the Bitcoin URI payment specification and also verifies non-Bech32 Bitcoin addresses. 
+
+&amp;#x200B;
+
+\#4
+
+[https://www.budgetcoinz.com/qr-code-generator/](https://www.budgetcoinz.com/qr-code-generator/)
+
+Appears to be legit, but doesn't perform any address check to ensure that user is entering a valid address.
+
+&amp;#x200B;
+
+\#5
+
+[https://games647.github.io/BitcoinQRCode/](https://games647.github.io/BitcoinQRCode/)
+
+Also appears legit, but also does not perform any Bitcoin address verification check.
+
+&amp;#x200B;
+
+\#6
+
+[https://www.zdnet.com/article/network-of-fake-qr-code-generators-will-steal-your-bitcoin/](https://www.zdnet.com/article/network-of-fake-qr-code-generators-will-steal-your-bitcoin/)
+
+A news story published last year documenting the bitcoin qr-code scamming problem.
+
+&amp;#x200B;
+
+\#7
+
+[https://www.cwaqrgen.com/](https://www.cwaqrgen.com/)
+
+A legit site that's been around for a while: [https://www.reddit.com/r/CryptoCurrency/comments/8fh5eo/crypto\_wallet\_address\_qr\_generator/](https://www.reddit.com/r/CryptoCurrency/comments/8fh5eo/crypto_wallet_address_qr_generator/)
+
+All around, a decent site, but doesn't support Bitcoin address verification or the Bitcoin URI payment specification (BIP 0021).
+
+&amp;#x200B;
+
+\#8 and #9
+
+A couple more news articles on QR code generators for Bitcoin
+
+&amp;#x200B;
+
+\#10
+
+Wiki page on QR code generating for Bitcoin.
+
+[https://en.bitcoinwiki.org/wiki/QR\_Code\_Generator](https://en.bitcoinwiki.org/wiki/QR_Code_Generator)
+
+&amp;#x200B;
+
+Now the above analysis was only done for Google results.  If you search on duckduckgo or bing, the results are even worse, with numerous scams charting the top results.
+
+&amp;#x200B;
+
+A couple years ago, a couple friends and I built a legitimate site specifically tailored to Bitcoin to address this problem:
+
+[https://qrcode4bitcoin.com/](https://qrcode4bitcoin.com/)
+
+but it still has no SEO ranking.
+
+&amp;#x200B;
+
+We announced it on reddit and it was well received:
+
+[https://www.reddit.com/r/Bitcoin/comments/c0odsw/we\_built\_an\_adfree\_scamfree\_bitcoin\_qr\_code/](https://www.reddit.com/r/Bitcoin/comments/c0odsw/we_built_an_adfree_scamfree_bitcoin_qr_code/)
+
+The site we created is (as far as I'm aware) still the most capable and secure Bitcoin QR code generator on the internet.  It also operates without any ads or monitoring of users and the source code is transparent.
+
+&amp;#x200B;
+
+What confuses me is why the site we built remains such an utter failure (in terms of search engine rankings) and why websites that are total scams continue to top the charts despite many news outlets continuing to report on this very problem.
+
+&amp;#x200B;
+
+I'd appreciate your insights redditors.  :)";12;0;https://www.reddit.com/r/Bitcoin/comments/pl78r3/a_report_on_the_topranked_qrcode_generators_for/
+2021-09-09;pl7894;ProudHODLER69420;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl7894/someone_is_scared/;Someone is scared.... 😂😂;1;https://www.google.com/amp/s/www.marketwatch.com/amp/story/bitcoin-could-collapse-and-isnt-a-good-safeguard-of-value-warn-global-central-bankers-11631220100;7;0;https://www.reddit.com/r/Bitcoin/comments/pl7894/someone_is_scared/
+2021-09-09;pl77v8;Great-Bumblebee-8642;i.redd.it;https://i.redd.it/ug30y30zqjm71.png;Together We Stand For Choice;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl77v8/together_we_stand_for_choice/
+2021-09-09;pl75fx;MaleficentZombie6710;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl75fx/how_can_i_get_a_bitcoin_credit_card/;how can i get a bitcoin credit card;1;"Is there like any virtual credit card app for phones that I can use to pay for stuff without id verification /for 13 year old's /without PARENTS SAYING NO BECAUSE THEY THINK ITS GAMBLING  
+
+
+or a way to get a real bitcoin creditcard that I can pay with bitcoin";2;0;https://www.reddit.com/r/Bitcoin/comments/pl75fx/how_can_i_get_a_bitcoin_credit_card/
+2021-09-09;pl74n8;dwolftech;youtu.be;https://youtu.be/8iiadq97a-I;Bitcoin for Beginners: What is Bitcoin and How to Get Started;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl74n8/bitcoin_for_beginners_what_is_bitcoin_and_how_to/
+2021-09-09;pl71a1;ShotBot;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl71a1/joe_biden_is_crafting_a_law_that_basically/;Joe Biden is crafting a law that basically mandates all working Americans to get vaccinated or lose their job. This could be bad for Bitcoin.;0;"[https://www.cnn.com/2021/09/09/politics/joe-biden-covid-speech/index.html](https://www.cnn.com/2021/09/09/politics/joe-biden-covid-speech/index.html)
+
+&gt; In his speech, the President directed the Labor Department to require all businesses with 100 or more employees ensure their workers are either vaccinated or tested once a week. Companies could face thousands of dollars in fines per employee if they don't comply. 
+
+Basically, the employer gets fined every week they have unvaccinated employees on the payroll. In other words, if you don't get the jab, you get fired.
+
+This would effectly put an end to the delta variant, which would allow the federal reserve to finally begin tapering.
+
+It would be bad news for Bitcoin if the Fed shuts off the money printer.";26;0;https://www.reddit.com/r/Bitcoin/comments/pl71a1/joe_biden_is_crafting_a_law_that_basically/
+2021-09-09;pl6te1;GodLibertyGunsGold;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl6te1/in_a_world_where_bitcoin_becomes_the_primary/;"In a world where Bitcoin becomes the primary currency of nations and individuals, is there a place for gold to exist as the new ""cash""?";0;"I know there are initiatives such as [Opendime](https://opendime.com/) but I'm unsure if these type of devices will ever become practical (durability, fraud, and cyber-security being my primary concerns).
+
+Will there still be a need for tangible money? Will gold lose its value as money like silver did?
+
+I don't think I've heard this discussed before so I'm curious what fellow Bitcoin folks think the future role of gold will be. If this is too off topic for this sub, I apologize and I'll try to remove it asap. Thanks in advance for your input!";24;0;https://www.reddit.com/r/Bitcoin/comments/pl6te1/in_a_world_where_bitcoin_becomes_the_primary/
+2021-09-09;pl6oo4;JessonBI89;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl6oo4/why_do_you_care_so_much_if_your_friends_and/;Why do you care so much if your friends and family buy?;1;"I don't own any crypto, so I'm coming at this from the perspective of that friend of yours who's sticking with fiat currency. What do you get out of persuading friends and family members to buy BTC and other coins? I'd understand the energy if there were some sort of commission involved, but this whole ""I just want you to make money"" mentality strikes me as kind of odd, especially when we didn't ask you to help us make money.";40;0;https://www.reddit.com/r/Bitcoin/comments/pl6oo4/why_do_you_care_so_much_if_your_friends_and/
+2021-09-09;pl6o2z;kadudu888;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl6o2z/the_most_difficult_thing_to_gauge_is_how_many/;The most difficult thing to gauge is: How many Bitcoin do you have to own to not have to worry about money for the rest of your life?;1;"Background: you dont want to have too little Bitcoin(or none, obviously), but you prob dont want to spend your entire life focusing on accumulating bitcoin to the extend you dont have time/energy to have the freedom to do the things you actually want to do in life, which is the whole point of owning Bitcoin.
+
+Maths: 
+
+80 years - your current age = years remaining
+
+$100,000 per year x years remaining = freedom money
+
+Bitcoin = $50,000…..and appreciates 200% per year on average
+
+As such, assume you are:
+
+Age 20 = 60 years remaining —&gt; need ???
+Age 25 = 55 years remaining —&gt; need ???
+Age 30 = 50 years remaining —&gt; need ???
+Age 35 = 45 years remaining —&gt; need 8 BTC
+Age 40 = 40 years remaining —&gt; need ???
+Age 45 = 35 years remaining —&gt; need ???
+Age 50 = 30 years remaining —&gt; need ???";29;0;https://www.reddit.com/r/Bitcoin/comments/pl6o2z/the_most_difficult_thing_to_gauge_is_how_many/
+2021-09-09;pl6cd6;bunchthegreat;i.redd.it;https://i.redd.it/a02heehtijm71.jpg;Pay me in Bitcoin!;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl6cd6/pay_me_in_bitcoin/
+2021-09-09;pl60o6;thadiusb;bitcoinmagazine.com;https://bitcoinmagazine.com/culture/bitcoin-and-me-a-life-in-fiat-recovery;Bitcoin And Addiction: A Life In (Fiat) Recovery;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl60o6/bitcoin_and_addiction_a_life_in_fiat_recovery/
+2021-09-09;pl5wiq;LineageGuru;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl5wiq/buying_btc/;Buying btc;1;Looking to buy some btc anonymously. Not sure exactly how to. Any suggestions?;9;0;https://www.reddit.com/r/Bitcoin/comments/pl5wiq/buying_btc/
+2021-09-09;pl5sti;steadyincomeinvest;steadyincomeinvestments.com;https://steadyincomeinvestments.com/teeka-tiwari-catch-up-coin-hyper-boom-how-much-can-you-make-on-teekas-six-catch-up-coins/;Teeka Tiwari Catch Up Coin Hyper Boom: How Much $$$ can you make on Teeka's Six Catch Up Coins;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl5sti/teeka_tiwari_catch_up_coin_hyper_boom_how_much/
+2021-09-09;pl5e6d;start100000;dailyhodl.com;https://dailyhodl.com/2021/09/09/bitcoin-gains-legal-status-in-ukraine/;Bitcoin and Crypto Gain Legal Status in Ukraine - The Daily Hodl;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl5e6d/bitcoin_and_crypto_gain_legal_status_in_ukraine/
+2021-09-09;pl5cfl;elna_prestige;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl5cfl/help/;Help ?;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pl5cfl/help/
+2021-09-09;pl5bx4;Radiant-Pumpkin3224;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl5bx4/just_swapped_all_of_my_btc_for_eth/;Just swapped all of my BTC for ETH;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pl5bx4/just_swapped_all_of_my_btc_for_eth/
+2021-09-09;pl55ao;Billgreen90;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl55ao/buying_an_exchange_gift_card_that_doesnt_count_as/;Buying an exchange gift card that doesnt count as a cash advance?;1;Is there anywhere to buy gift cards to spend on bitcoin as a work around to yhe cash advance issue?;4;0;https://www.reddit.com/r/Bitcoin/comments/pl55ao/buying_an_exchange_gift_card_that_doesnt_count_as/
+2021-09-09;pl53pk;TombStoneFaro;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl53pk/is_the_daily_transaction_count_of_funds_going_to/;is the daily transaction count of funds going to el salvador available?;1;"and of course within the country. forget the btc volume; i think a steady increase in xactions will show adoption.
+
+i would guess this number might be hard to obtain but maybe the government has figures.";8;0;https://www.reddit.com/r/Bitcoin/comments/pl53pk/is_the_daily_transaction_count_of_funds_going_to/
+2021-09-09;pl53lm;Hendrix132;i.redd.it;https://i.redd.it/he69cn0e7jm71.jpg;🤔🤔;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl53lm/_/
+2021-09-09;pl4p64;ZER0SE7ENONETH;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl4p64/help_sending_funds_on_lightning_network/;Help Sending Funds on Lightning Network;1;"I set up a Blue wallet - funded it - and made a purchase with no issues.
+
+&amp;#x200B;
+
+I had a friend set up an Electrum wallet.
+
+&amp;#x200B;
+
+I asked for the receiving address. It looked like the type of address that the original purchase used. I tried to send funds from Blue but it wouldnt work. Blue is asking for an invoice and Electrum said it exceeds maximum amount allowed with channels.
+
+&amp;#x200B;
+
+I believe in DYOR. I've now spent an enormous and probably embarrassing amount of time online trying to figure this out and I'm now more confused than when I started.
+
+&amp;#x200B;
+
+So how do I send funds to my friend using the Lightning network between these 2 wallets? Bonus points if you can ELI5 : nodes - channels - invoices and do I need any of these.";4;0;https://www.reddit.com/r/Bitcoin/comments/pl4p64/help_sending_funds_on_lightning_network/
+2021-09-09;pl4jfs;Amber_Sam;coin.fyi;https://coin.fyi/news/bitcoin/switzerland-now-holds-itcoin-as-a-treasury-reserve-asset-the-national-adopt-pl1f8g;Switzerland now holds ₿Itcoin as a treasury reserve asset. The national adoption dominos are starting to fall fast;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl4jfs/switzerland_now_holds_itcoin_as_a_treasury/
+2021-09-09;pl4j0e;gomboloid;bitcoin4cincy.com;https://bitcoin4cincy.com/2021/09/09/bitcoin-has-a-defense-budget-larger-than-most-countries/;Bitcoin Has a Defense Budget Larger than Most Countries;1;;6;0;https://www.reddit.com/r/Bitcoin/comments/pl4j0e/bitcoin_has_a_defense_budget_larger_than_most/
+2021-09-09;pl4h49;Bitcoin_Magazine;bitcoinmagazine.com;https://bitcoinmagazine.com/culture/jpmorgan-wrong-about-bitcoin-dollar-el-salvador;Debunking JPMorgan's Arguments Against El Salvador's Bitcoin Adoption;1;;2;0;https://www.reddit.com/r/Bitcoin/comments/pl4h49/debunking_jpmorgans_arguments_against_el/
+2021-09-09;pl4a8n;spruce_springstein;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl4a8n/help_solving_inheritance_conundrum/;Help solving inheritance conundrum;1;"Hi Bitcoiners!
+
+A friend of mine just received an inheritance of over 100K USD. He wants to give a bunch of it to an older family friend who needs it for medical care and stuff. He doesn't want to gift a bunch of money to them because anything over 10K would be taxed. He's thinking about making a joint bank account with the family friend but that isn't proving to be very easy. I was wondering if bitcoin could help solve this problem. Like maybe put 80K in a Coinbase account that they both have access to and could sell funds and transfer to their bank accounts whenever needed. Are large transfers from Coinbase taxed? What do you all think? Thanks or any help!";9;0;https://www.reddit.com/r/Bitcoin/comments/pl4a8n/help_solving_inheritance_conundrum/
+2021-09-09;pl41cb;CritterNYC;portableapps.com;https://portableapps.com/news/2021-09-09--bitcoin-portable-0.21.1-released;Bitcoin Core Portable, packaged for use on any Windows PC, released by PortableApps.com;1;;4;0;https://www.reddit.com/r/Bitcoin/comments/pl41cb/bitcoin_core_portable_packaged_for_use_on_any/
+2021-09-09;pl41c3;thadiusb;twitter.com;https://twitter.com/Bitcoinbeach/status/1435975015611179008?s=20;“This is a permissionless, decentralization revolution without “official ambassadors” or hierarchy. If you are waiting for permission or orders this revolution will pass you by.”;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl41c3/this_is_a_permissionless_decentralization/
+2021-09-09;pl40pa;Eye420710;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl40pa/500_for_free_in_bitcoin_when_signing_up_no_needed/;$500 for free in Bitcoin when signing up, no needed to pay any fees, verified link, and payment proof;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pl40pa/500_for_free_in_bitcoin_when_signing_up_no_needed/
+2021-09-09;pl3yfz;thadiusb;twitter.com;https://twitter.com/APompliano/status/1436009660981592071?s=20;“Bitcoin miners received $43.2 million in block reward revenue over the last 24 hours. One of the most important financial incentives in the world.“;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl3yfz/bitcoin_miners_received_432_million_in_block/
+2021-09-09;pl3xr2;thadiusb;twitter.com;https://twitter.com/APompliano/status/1436009660981592071?s=20;“Bitcoin miners received $43.2 million in block reward revenue over the last 24 hours. One of the most important financial incentives in the world.“ -Pomp;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl3xr2/bitcoin_miners_received_432_million_in_block/
+2021-09-09;pl3vdv;TombStoneFaro;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl3vdv/an_el_salvadoran_discusses_remittances_i_have/;An El Salvadoran discusses remittances -- I have some questions;1;"A guy who lives in Canada sends money home. I saw that Western Union gets like 400 million a year in fees that will now be saved by using btc. 
+
+But the guy mentions some other stuff
+
+1. Having to be physically present at WU office: transportation costs (long bus ride)
+2. Being robbed: when these people take the bus to the city, people know they are going to pick up money
+3. The sender having to go to a WU office (maybe they can do a bank transfer but that costs money)
+4. WU can take 3 days (wow)
+
+So I wonder if the 400 million is only WU fees and it does not take into account the what seems like substantial expenses besides these fees? How much is using btc costing? Do people use Lightning typically? If they only used btc without Lightning, are fees very high nowadays?
+
+A sort of cynical point is, the receiver being robbed does not mean the money leaves the country but it is obviously a huge incentive for the receiver to use btc rather than WU.";27;0;https://www.reddit.com/r/Bitcoin/comments/pl3vdv/an_el_salvadoran_discusses_remittances_i_have/
+2021-09-09;pl3vav;groweasy111111;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl3vav/access_denied_openseaio_used_cloudflare_to/;Access denied | opensea.io used Cloudflare to restrict access;1;"Actual Physical properties tied to NFT ownership
+
+https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/107076590797233522762153905245969710094128753756243551309982037150923533320193/";9;0;https://www.reddit.com/r/Bitcoin/comments/pl3vav/access_denied_openseaio_used_cloudflare_to/
+2021-09-09;pl3qbj;Desperate_You1048;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl3qbj/i_need_help/;i need help;1;"hey i hope you guys see this i really need help i dont know how to withdrawal my money everytime i try to withdrawal something like this show up 
+
+https://preview.redd.it/3bk3vmsyuim71.png?width=599&amp;format=png&amp;auto=webp&amp;s=4c42e5852fc004f660651a7d99ec6f3b1a7e20ff";11;0;https://www.reddit.com/r/Bitcoin/comments/pl3qbj/i_need_help/
+2021-09-09;pl3pn2;PaxfulOfficial;youtube.com;https://www.youtube.com/watch?v=UocgLXF_LUo;#PaxNaija Bitcoin Education Center launches in Abuja | The first of many Bitcoin education centers we're planning on opening!;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl3pn2/paxnaija_bitcoin_education_center_launches_in/
+2021-09-09;pl3m2k;sepke12345;blockbulletin.com;https://blockbulletin.com/analysis/bitcoin/bitcoin-drops-nearly-20-in-just-one-day-what-happened/;Bitcoin drops nearly 20% in just one day. What happened?!;1;;10;0;https://www.reddit.com/r/Bitcoin/comments/pl3m2k/bitcoin_drops_nearly_20_in_just_one_day_what/
+2021-09-09;pl3jtj;Amber_Sam;cnbc.com;https://www.cnbc.com/amp/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html;It looks like Bitcoin is fighting for the small guy - El Salvador bitcoin move could cost Western Union $400 million a year | CNBC;2;;4;0;https://www.reddit.com/r/Bitcoin/comments/pl3jtj/it_looks_like_bitcoin_is_fighting_for_the_small/
+2021-09-09;pl3ia8;thadiusb;twitter.com;https://twitter.com/Breedlove22/status/1436025393052590090?s=20;“Self-ownership is as ineradicable as gravity. Yet the state operates against the principle of self-ownership with mandates, taxation, and inflation. Nature restores balance to socioeconomic reality with #Bitcoin.”;2;;2;0;https://www.reddit.com/r/Bitcoin/comments/pl3ia8/selfownership_is_as_ineradicable_as_gravity_yet/
+2021-09-09;pl3c31;MotorImpression8353;/r/Bitcoin/comments/pl3c31/made_a_bitcoin_desk_sign_lmk_your_thoughts/;https://v.redd.it/9t02139brim71;Made a Bitcoin desk sign. Lmk your thoughts.;1;;65;0;https://www.reddit.com/r/Bitcoin/comments/pl3c31/made_a_bitcoin_desk_sign_lmk_your_thoughts/
+2021-09-09;pl3ba1;Perfect_Ability_1190;i.redd.it;https://i.redd.it/77c4qse5rim71.jpg;Bullish 🍹;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl3ba1/bullish/
+2021-09-09;pl39h6;Febos;mastercard.com;https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/;Mastercard acquires CipherTrace to enhance crypto capabilities;1;;6;0;https://www.reddit.com/r/Bitcoin/comments/pl39h6/mastercard_acquires_ciphertrace_to_enhance_crypto/
+2021-09-09;pl36u4;simplelifestyle;businessinsider.com;https://www.businessinsider.com/jpmorgan-financial-advisors-crypto-bitcoin-products-retail-wealth-management-2021-7?IR=T;JPMorgan just became the first big bank in July to give retail wealth clients access to cryptocurrency funds. Yes, that JPM, James Dimon's bank, the “i will fire every employee who touches Crypto” bank.;1;;7;0;https://www.reddit.com/r/Bitcoin/comments/pl36u4/jpmorgan_just_became_the_first_big_bank_in_july/
+2021-09-09;pl33qb;_henry14;i.redd.it;https://i.redd.it/b9ydmqq6pim71.jpg;Car wash using Bitcoin!!;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl33qb/car_wash_using_bitcoin/
+2021-09-09;pl2w1m;Westfox28;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl2w1m/potentially_stupid_question_am_i_supposed_to_be/;Potentially stupid question: Am I supposed to be staking BTC?;1;"I am currently staking Algo in Yieldy. I believe I’ll be able to stake my Eth on Coinbase when Eth 2.0 arrives. Should I be doing something with my BTC, or is it different…perhaps because of proof of work vs proof stake? 
+
+Expecting some clever responses as to why there is an obvious answer.";3;0;https://www.reddit.com/r/Bitcoin/comments/pl2w1m/potentially_stupid_question_am_i_supposed_to_be/
+2021-09-09;pl2sdv;guccibhabie;i.redd.it;https://i.redd.it/hgo4v18hmim71.jpg;Just did something for the crypto lovers! more on Twitter @JessieMorii;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl2sdv/just_did_something_for_the_crypto_lovers_more_on/
+2021-09-09;pl2sau;sylsau;inbitcoinwetrust.net;https://www.inbitcoinwetrust.net/the-bitcoin-energy-consumption-debate-becomes-obsolete-when-you-look-at-the-wealth-it-secures-823802ece883?sk=0f4e34b42959e9c38dbe2cd582b3486a;The Bitcoin Energy Consumption Debate Becomes Obsolete When You Look at the Wealth It Secures. Don't Trust, Verify.;1;;6;0;https://www.reddit.com/r/Bitcoin/comments/pl2sau/the_bitcoin_energy_consumption_debate_becomes/
+2021-09-09;pl2rzk;guccibhabie;i.redd.it;https://i.redd.it/t9olpkkdmim71.jpg;Just did something for the crypto lovers! more on Twitter @JessieMorii;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl2rzk/just_did_something_for_the_crypto_lovers_more_on/
+2021-09-09;pl2r9v;MmaPot;i.redd.it;https://i.redd.it/jfydloh5mim71.png;Matrix 4;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl2r9v/matrix_4/
+2021-09-09;pl2lkx;RiiguyHATESHFUNDS;news.bitcoin.com;https://news.bitcoin.com/super-bowl-star-tom-brady-supermodel-gisele-bundchen-ad-campaign-crypto-exchange-ftx/;Super Bowl Star Tom Brady, Supermodel Gisele Bundchen Star in $20M Ad Campaign for Crypto Exchange FTX – Featured Bitcoin News;1;;3;0;https://www.reddit.com/r/Bitcoin/comments/pl2lkx/super_bowl_star_tom_brady_supermodel_gisele/
+2021-09-09;pl2lcr;osteo-path;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl2lcr/el_salvadors_new_bitcoin_wallets_could_cost/;El Salvador’s new bitcoin wallets could cost Western Union $400 million a year;1;"
+https://www.cnbc.com/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html
+
+In 2020, El Salvador received nearly $6 billion in remittances, which accounted for about 23% of its gross domestic product.President Nayib Bukele estimates that money services providers like Western Union and MoneyGram will lose $400 million a year in commissions for remittances, thanks to the country’s bitcoin adoption.Some 70% of the Salvadoran population receives remittance payments.
+
+Jaime García really hates using Western Union to send money home to El Salvador. 
+
+“In this day and age, it is wild that I had to go to a physical Western Union office, give them actual cash, and then hand them another $25 on top of that, before they would send my money over,” García said.
+
+“And then, of course, it takes three days for it to actually arrive in El Salvador.”
+
+García, who lives in the Canadian province of Saskatchewan, fled El Salvador when he was 11 after rebels bombed his house. His biggest issue with wiring cash abroad is less the inconvenience on his end and more about what happens to his loved ones receiving the money.
+
+“They have to take a bus to go to a physical location to pick it up, and there are gangs that hang out around those offices. They know what people are going there for, and they basically rob them,” said García, who leads a team of researchers at SGI Canada Insurance. 
+
+Since he last sent money home, García told CNBC, he now has the option to make an online payment via the Western Union app, but he still faces steep fees – 12.5% for a $100 transfer – and it doesn’t solve the problem of what happens to those picking up the cash in El Salvador.";28;0;https://www.reddit.com/r/Bitcoin/comments/pl2lcr/el_salvadors_new_bitcoin_wallets_could_cost/
+2021-09-09;pl2kb0;ShotBot;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl2kb0/would_anybody_be_interested_in_creating_a/;"Would anybody be interested in creating a ""watchdog"" website that calls out unethical/illegal crypto founders and crypto companies?";1;"The majority of crypto operates under this morally grey and legally grey zone where right and wrong is blurred. The wrong part rarely gets covered and everybody is incentivized to overexaggerate the ""right"" part. I want to create a ""Watch dog"" media group that aims to callout companies doing illegal and immoral things in the crypto space. We would be an activist group aiming for a more fair, open and free crypto market.
+
+  
+Would anyone be interested in pursuing this with me?";27;0;https://www.reddit.com/r/Bitcoin/comments/pl2kb0/would_anybody_be_interested_in_creating_a/
+2021-09-09;pl2f4t;Technical_Cow9050;cryptotabbrowser.com;"https://cryptotabbrowser.com/8465300?s=rd&amp;f=newtab&amp;og=m22";If you've ever thought about starting mining BTC, now is the best time! And I’ll tell you why. Everything that you need to do now is install CryptoTab Browser and it will mine Bitcoins for you. No investments, no risks, no extra efforts! Try it and see how simple and profitable it is;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl2f4t/if_youve_ever_thought_about_starting_mining_btc/
+2021-09-09;pl2efl;juiceofthemoon;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl2efl/seed_phrase_question_is_it_more_secure_to_remove/;Seed phrase question: Is it more secure to remove some words from a written paper and memorise them?;1;"If so, how many words should that be?  Or does anyone split their seed in half and store the halves at two separate locations?  
+
+I'm wondering if you can still just remove a few words and the seed remains 'uncrackable'?
+
+Thanks in advance for your thoughts!";13;0;https://www.reddit.com/r/Bitcoin/comments/pl2efl/seed_phrase_question_is_it_more_secure_to_remove/
+2021-09-09;pl2e6u;kadudu888;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl2e6u/30_years_ago_the_eu_thought_its_the_best_idea_to/;30 years ago the EU thought its the best idea to have one currency than 20, why do they now not just move to Bitcoin and connect with El Salvador (and Ukraine)?;1;"Its a no brainer to having a stable and reliable currency that not only connects the members of the EU, but outsiders as well.
+
+The ECB should start buying Bitcoin and make Bitcoin a legal tender.
+
+The Euro is dead anyway so sooner or later they will have to move forward.";28;0;https://www.reddit.com/r/Bitcoin/comments/pl2e6u/30_years_ago_the_eu_thought_its_the_best_idea_to/
+2021-09-09;pl2b8g;Goldenboy0716;decrypt.co;https://decrypt.co/80565/polygon-integrates-mina-protocol-bringing-privacy-ethereum-scaling-solution?amp=1;Polygon Integrates Mina Protocol, Bringing Privacy to Ethereum Scaling Solution;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl2b8g/polygon_integrates_mina_protocol_bringing_privacy/
+2021-09-09;pl29uy;neongodcsgo;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl29uy/a_new_website/;a new website!?;1;"hello crypto people!
+i want to open a new website for crypto and stuff like that i would love if you give me some ideas for the site.";11;0;https://www.reddit.com/r/Bitcoin/comments/pl29uy/a_new_website/
+2021-09-09;pl28p5;andrytail;news.todayq.com;https://news.todayq.com/news/mastercard-to-integrate-ciphertraces-operations-into-its-cyber-security-solutions/;MasterCard enters in Bitcoin and Crypto, President says “Digital assets have the potential to reimagine commerce, from everyday acts like paying and getting paid to transforming economies, making them more inclusive and efficient”;1;;1;0;https://www.reddit.com/r/Bitcoin/comments/pl28p5/mastercard_enters_in_bitcoin_and_crypto_president/
+2021-09-09;pl23ng;zerinsakech1;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl23ng/buy_buy_buy_in_the_tune_of_cry_cry_cry_by_johnny/;Buy, Buy, Buy (in the tune of Cry, Cry, Cry by Johnny Cash);2;"I'm not much of a songwriter but I love writing alternative lyrics or parodies to songs and this one is crypto related so I hope you guys like it.   
+
+
+**(Buy, Buy Buy)**
+
+Everybody knows where you go when the stock goes down. 
+
+I think you only live to see the high price of DOW.
+
+I wasted my time when I would try try try,
+
+to tell you about the crypto you should buy buy buy.
+
+&amp;#x200B;
+
+Soon your US Dollars will all be dust,
+
+you'll wake up some cold day and find you're a bust.
+
+You'll call me up and tell me all this, why why why,
+
+'cause I already told you many times to buy buy buy.
+
+  
+(Chorus)
+
+We're gonna buy buy buy, all crypto in town,
+
+when everyone's forgotten that the blockchain's still sound.
+
+We're gonna buy, buy buy. 
+
+&amp;#x200B;
+
+I lie awake at night and wait till you come in
+
+to stay a little chat cause you've lost it all again.
+
+Every coin that you bought is just a lie lie lie
+
+don't try to get rich quick because you'll cry cry cry.
+
+&amp;#x200B;
+
+When your senators get old no one will care for you,
+
+they're stocking crypto and you know it's true.
+
+They'll tell you it's going down so they can buy buy buy,
+
+I've seen it all before and it's a lie lie lie. 
+
+  
+(Chorus)
+
+We're gonna buy buy buy and you'll want in then
+
+when it's record high, you'll think about investing again
+
+you're gonna buy, buy buy.";0;0;https://www.reddit.com/r/Bitcoin/comments/pl23ng/buy_buy_buy_in_the_tune_of_cry_cry_cry_by_johnny/
+2021-09-09;pl22oa;Sportspub;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl22oa/buying_bitcoin_in_uncles_memory_who_kept_telling/;Buying bitcoin in uncle's memory who kept telling me to buy and hold.;1;"Well, my uncle was the last family I really had left and for the past 5 or so years he been telling me to put some of my savings each week in bitcoin that it would be worth it. I wish I listened to him he was definitely right lol. He has been putting a good amount of his checks each week into btc. A few months ago he became ill and his last few weeks were not looking so good. He told me he wanted me to have his bitcoin savings since I was like a son to him. He was telling me for weeks to make a wallet so he can transfer some to me.
+
+
+I kept pushing it off because I wanted him to focus on fighting and didn't want to think if him passing. Well unfortunately about 3 weeks ago he passed. There is no sign of even where to find his wallet or sign ins etc. His sister who he hated has claimed basic everything he had and has told me there needs to be no communication between us. 
+
+As sad as this is turning out to he I made a block chain wallet today. Couldn't add funds to it get for some reason so bought $97 worth of bitcoin on Robinhood today in his mer. Its all I can afford right now, I don't make a lot of money. Not sure the difference between Robin hood and blockchain but from what I read on here I should avoid robinhood? I am going to move my money to block chain once I get verified. And I will try to put a little bit each week or month like he told me to do. Wanted to share that story. Don't have many people to talk to.";37;0;https://www.reddit.com/r/Bitcoin/comments/pl22oa/buying_bitcoin_in_uncles_memory_who_kept_telling/
+2021-09-09;pl1z1o;Simplybitcoin1;youtu.be;http://youtu.be/qcCNaYDC2vI;Daily Bitcoin News September 8th,2021;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl1z1o/daily_bitcoin_news_september_8th2021/
+2021-09-09;pl1uts;kevlav91;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl1uts/coinberry_fees_increased_or_am_i_crazy/;Coinberry fees increased or am I crazy?;1;" 
+
+Amount
+
+0.43763 BTC
+
+Price
+
+@ $ 61,168.10
+
+Estimated Fee (included)
+
+$ 560.85 **&lt;- more than 2%**
+
+Total
+
+$ 26769.04
+
+&amp;#x200B;
+
+\-
+
+&amp;#x200B;
+
+In the past use them, I remeber paying lowish fees but now they got super expensive or am I crazy?";4;0;https://www.reddit.com/r/Bitcoin/comments/pl1uts/coinberry_fees_increased_or_am_i_crazy/
+2021-09-09;pl1uje;Harrisonmark282;reddit.com;https://www.reddit.com/gallery/pl1uje;Congratulations to everyone who benefited from my company.Believe it or live it! Registration fee:$0:00 Registration bonus:$30 Daily earning :$1000 Weeky earning $7500 Monthly:$15,000 Instant cash out 👍 Ask me how;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl1uje/congratulations_to_everyone_who_benefited_from_my/
+2021-09-09;pl1sv1;Bitcoin_Magazine;bitcoinmagazine.com;https://bitcoinmagazine.com/culture/a-look-at-local-bitcoin-adoption-in-el-salvador;A Look At Local Bitcoin Adoption In El Salvador;1;;4;0;https://www.reddit.com/r/Bitcoin/comments/pl1sv1/a_look_at_local_bitcoin_adoption_in_el_salvador/
+2021-09-09;pl1ld1;Short_Pineapple666;i.redd.it;https://i.redd.it/ne73hn5rbim71.jpg;Let’s get XTZ To 20 dollars per share;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl1ld1/lets_get_xtz_to_20_dollars_per_share/
+2021-09-09;pl1kz1;Binary_Investor54;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl1kz1/investment_trading/;Investment trading;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pl1kz1/investment_trading/
+2021-09-09;pl1ijv;FourFourFakinTwo;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl1ijv/foss_wallets_ios/;FOSS Wallets? (iOS);1;"Was scrolling through [wallet scrutiny](https://walletscrutiny.com/?verdict=nosource&amp;platform=iphone) and they currently have no foss apps that they believe are reproducible for ios. There's a few for the play store, but none for the App Store. They might have missed some, soooo.... any suggestions?";0;0;https://www.reddit.com/r/Bitcoin/comments/pl1ijv/foss_wallets_ios/
+2021-09-09;pl1f8g;ShldVBoughtBitcoin;twitter.com;https://twitter.com/coinbaseswiss/status/1435953128277487617?s=21;Switzerland now holds ₿Itcoin as a treasury reserve asset. The national adoption dominos are starting to fall fast;1;;8;0;https://www.reddit.com/r/Bitcoin/comments/pl1f8g/switzerland_now_holds_itcoin_as_a_treasury/
+2021-09-09;pl1eoh;Bitcoin_Magazine;bitcoinmagazine.com;https://bitcoinmagazine.com/business/billionaire-investor-leon-cooperman-on-bitcoin;Billionaire Investor Leon Cooperman: If You Don't Understand Bitcoin, You're Old;1;;33;0;https://www.reddit.com/r/Bitcoin/comments/pl1eoh/billionaire_investor_leon_cooperman_if_you_dont/
+2021-09-09;pl1ecd;IAMTHEPLUGUKNOW;discord.gg;https://discord.gg/yBDGMQ4K;Join the ðSol Coast: Solphins ð¬ (PRESALE OPENED!) Discord Server!;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl1ecd/join_the_ðsol_coast_solphins_ð_presale_opened/
+2021-09-09;pl1cje;Bodeboden;reddit.com;https://www.reddit.com/gallery/pl1cje;AIMING TO BE THE FIRST PERSON TO SELL AN ANTIQUE CAR FOR BITCOIN… Currently attempting to find someone who would be interested in purchasing my 1937 Chevy Coupe for 1 bitcoin. It’s value its at the current price.... located in Southern California !! Private owned;1;;266;0;https://www.reddit.com/r/Bitcoin/comments/pl1cje/aiming_to_be_the_first_person_to_sell_an_antique/
+2021-09-09;pl1aw9;brbnewsagency;protos.com;https://protos.com/ethereum-is-making-same-mistakes-as-bitcoin-hard-fork-attempts/;Ethereum is making the same mistakes as the Bitcoin hard fork attempts;1;;6;0;https://www.reddit.com/r/Bitcoin/comments/pl1aw9/ethereum_is_making_the_same_mistakes_as_the/
+2021-09-09;pl144s;Ftoro2021;youtube.com;https://www.youtube.com/watch?v=HrdMKOGaaik;Chaos after Bitcoin adoption in El Salvador People took to the streets, burning tyres and throwing;1;;14;0;https://www.reddit.com/r/Bitcoin/comments/pl144s/chaos_after_bitcoin_adoption_in_el_salvador/
+2021-09-09;pl11eb;redriverdolphin;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl11eb/will_taproot_allow_for_smart_contract/;Will taproot allow for smart contract functionality?;1;If bitcoin gets smart contract functionality then maybe bitcoin could get utility tokens in its economy?;6;0;https://www.reddit.com/r/Bitcoin/comments/pl11eb/will_taproot_allow_for_smart_contract/
+2021-09-09;pl0zqh;fmkts;civilbeat.org;https://www.civilbeat.org/2021/09/hawaii-should-get-on-board-with-cryptocurrency-exchanges/;Hawaii Should Get On Board With Cryptocurrency Exchanges;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl0zqh/hawaii_should_get_on_board_with_cryptocurrency/
+2021-09-09;pl0ysr;Bitcoin_Mining_643;/r/Bitcoin/comments/pl0ysr/do_you_want_to_make_money_in_covid_19_for_free_if/;https://v.redd.it/nmtr35fu3im71;➡️Do you want to make money in covid 19 for free🤑? If yes✅, this post is for you .SUBCRIBE my youtube to know more about make money online💻💸💸: http://bblink.com/earn10dollars. 👉HERE IS THE TUTORIAL👌❤️. Follow this Link to get 10$💰: http://bblink.com/Autofaucetbitcoin;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl0ysr/do_you_want_to_make_money_in_covid_19_for_free_if/
+2021-09-09;pl0xrl;Jcook_14;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl0xrl/if_you_live_in_el_salvador_all_i_ask_is_that_you/;if you live in El Salvador, all I ask is that you post regularly on this forum, explaining the trends that you see regarding BTC being a legal tender! Once the price starts going up, I have a feeling the protests will dissipate lol;1;;16;0;https://www.reddit.com/r/Bitcoin/comments/pl0xrl/if_you_live_in_el_salvador_all_i_ask_is_that_you/
+2021-09-09;pl0seg;Toofast4yall;cnbc.com;"https://www.cnbc.com/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html?utm_source=facebook&amp;utm_medium=news_tab&amp;utm_content=algorithm";Hmm, I wonder why some people are against bitcoin adoption;1;;11;0;https://www.reddit.com/r/Bitcoin/comments/pl0seg/hmm_i_wonder_why_some_people_are_against_bitcoin/
+2021-09-09;pl0nfd;FitDiscussion4;criptoexperts.com;https://www.criptoexperts.com/mcdonalds-starbucks-pizz-hut-starts-accepting-bitcoin-in-el-salvador/;"McDonald's, Starbucks &amp; Pizzahut starts accepting Bitcoin in El Salvador, getting huge response";1;;70;0;https://www.reddit.com/r/Bitcoin/comments/pl0nfd/mcdonalds_starbucks_pizzahut_starts_accepting/
+2021-09-09;pl0mbd;ComfortableSwimmer92;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl0mbd/ive_been_looking_but_cant_find_this_shouldnt_it/;I've been looking but can't find this... Shouldn't it be relatively easy to find and monitor El Salvador's wallets, so that we can publicly monitor the funds being acquired by its citizens?;1;Sorry, I'm a noob and not sure where to look. :(;16;0;https://www.reddit.com/r/Bitcoin/comments/pl0mbd/ive_been_looking_but_cant_find_this_shouldnt_it/
+2021-09-09;pl0hul;Bitcoin_Magazine;bitcoinmagazine.com;https://bitcoinmagazine.com/business/el-salvador-bitcoin-cuts-western-union-revenue;El Salvador’s Bitcoin Adoption To Cut Western Union Revenue, Increase Population Wealth;1;;2;0;https://www.reddit.com/r/Bitcoin/comments/pl0hul/el_salvadors_bitcoin_adoption_to_cut_western/
+2021-09-09;pl0gu1;badzchax;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl0gu1/monsta_infinite/;Monsta Infinite;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pl0gu1/monsta_infinite/
+2021-09-09;pl0dhi;cognitism;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl0dhi/i_think_were_about_to_get_wycoffed/;I think we’re about to get Wycoffed;1;"That flash crash feels too fishy. Why would whales dump like that out of nowhere? I don’t think they’re done crashing the market. I sense this fall and winter are going to be cold. 
+
+Full disclosure: I’m personally exiting right now. I’m not saying you should; but I would certainly be on your toes, and set all the necessary stop limits you need to prevent a huge crash from wrecking you";36;0;https://www.reddit.com/r/Bitcoin/comments/pl0dhi/i_think_were_about_to_get_wycoffed/
+2021-09-09;pl0d40;Indels;youtube.com;https://www.youtube.com/watch?v=HeIJYowz2Uw;I did a 10 Bitcoin Commandments Rap song with some visuals. No Ads on the Vid but just wanted to share with the community!;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl0d40/i_did_a_10_bitcoin_commandments_rap_song_with/
+2021-09-09;pl0clj;Automatic-Bench-4658;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl0clj/xrp/;XRP;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pl0clj/xrp/
+2021-09-09;pl0b8f;hyperinflationUSA;youtu.be;https://youtu.be/Zm2X6gk3OOw;"CBDC = Negative Rates, Cashless Society.....""you have been denied""";1;;2;0;https://www.reddit.com/r/Bitcoin/comments/pl0b8f/cbdc_negative_rates_cashless_societyyou_have_been/
+2021-09-09;pl0b2e;EcstaticDistance4304;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl0b2e/another_reason_why_btc_has_value_that_doesnt_get/;Another reason why BTC has value that doesn’t get mentioned;1;Without the creation of bitcoin there would be no blockchain. Bitcoin is the source for all the value that is being added to crypto universe so it should derive value from being the first. Don’t think this is emphasized as much.;13;0;https://www.reddit.com/r/Bitcoin/comments/pl0b2e/another_reason_why_btc_has_value_that_doesnt_get/
+2021-09-09;pl08f3;Big-Dark3861;i.redd.it;https://i.redd.it/0qf169tdzhm71.jpg;H O P I U M;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl08f3/h_o_p_i_u_m/
+2021-09-09;pl08al;MiniNooby;cnbc.com;https://www.cnbc.com/amp/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html?__twitter_impression=true;El Salvador's new bitcoin wallets could cost Western Union $400 million a year;1;;25;0;https://www.reddit.com/r/Bitcoin/comments/pl08al/el_salvadors_new_bitcoin_wallets_could_cost/
+2021-09-09;pl07xn;gravynotsauce;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl07xn/should_i_keep_all_my_btc_on_my_ledger_or_is_it/;Should I keep all my BTC on my ledger or is it safe to keep on the market so that I can take advantage of trading the peaks and valleys?;1;;17;0;https://www.reddit.com/r/Bitcoin/comments/pl07xn/should_i_keep_all_my_btc_on_my_ledger_or_is_it/
+2021-09-09;pl06vy;anojung;i.redd.it;https://i.redd.it/5po837wzyhm71.jpg;Bitcoin and crypto are banned in NEPAL. Nepal’s national bank has announced that the trading, use or mining of any types of crypto currency in nepal is illegal. If anyone is engaged in such activities related to cryptocurrency, he/she will be punished according to the law. Not even promote it. SMH;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pl06vy/bitcoin_and_crypto_are_banned_in_nepal_nepals/
+2021-09-09;pl03h6;Bukola_walker;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pl03h6/i_will_develop_and_build_standard_marketplace_for/;I will develop and build standard marketplace for mint, token, penguin, and artist;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pl03h6/i_will_develop_and_build_standard_marketplace_for/
+2021-09-09;pkzzce;Rostiff;i.redd.it;https://i.redd.it/h9vk5mt0xhm71.jpg;This is what my work just texted me;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pkzzce/this_is_what_my_work_just_texted_me/
+2021-09-09;pkzzbt;Blogbuddydaily;blogbuddydaily24.blogspot.com;https://blogbuddydaily24.blogspot.com/2021/09/whats-new-with-apple-macbook-air-m2.html;The 2008 global meltdown and the birth of Bitcoin.;1;;0;0;https://www.reddit.com/r/Bitcoin/comments/pkzzbt/the_2008_global_meltdown_and_the_birth_of_bitcoin/
+2021-09-09;pkzzah;Forward_Cranberry_82;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pkzzah/willy_woo_sounds_like_he_starts_every_day_with_a/;Willy Woo sounds like he starts every day with a pint of CBD oil. Chiller than chill, that Woo.;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pkzzah/willy_woo_sounds_like_he_starts_every_day_with_a/
+2021-09-09;pkzya4;PhotographOwn8836;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pkzya4/what_do_you_guys_think_about_the_tether_printer/;What do you guys think about the Tether printer?;1;Big fan of Bitcoin and critic of legacy financial, but I'm worried that the crypto ecosystem including bitcoin will become a copy of legacy financial with the Tether printer being the same thing as the Fed money printer except for crypto.;3;0;https://www.reddit.com/r/Bitcoin/comments/pkzya4/what_do_you_guys_think_about_the_tether_printer/
+2021-09-09;pkzxzv;Bukola_walker;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pkzxzv/i_will_develop_standard_wallet_app_blockchain_app/;I will develop standard wallet app, blockchain app, nft app, and metamask app;1;[removed];0;0;https://www.reddit.com/r/Bitcoin/comments/pkzxzv/i_will_develop_standard_wallet_app_blockchain_app/
+2021-09-09;pkzwuw;Tux_fan;self.Bitcoin;https://www.reddit.com/r/Bitcoin/comments/pkzwuw/im_from_el_salvador_ask_me_if_you_want_to_know/;I'm from El Salvador, ask me if you want to know what is happening here!;1;Bitocin is now legal tender. Ask me any doubts you have. I'll give my opinion as an average citizen.;728;0;https://www.reddit.com/r/Bitcoin/comments/pkzwuw/im_from_el_salvador_ask_me_if_you_want_to_know/
